@@ -1,0 +1,86 @@
+name,short_name,latitude,longitude,state,location
+gdynia,Gdynia,54.502632,18.558699,pomorskie,Gdynia
+gdansk,Gdańsk,54.41428,18.6017,pomorskie,Gdańsk
+lodz,Łódź,51.752244,19.441498,łódzkie,Łódź
+poznan,Poznań,52.418883,16.933289,wielkopolskie,Poznań
+warszawapraga,Warszawa-Praga,52.241493,21.050963,mazowieckie,Warszawa
+krakow,Kraków,50.062313,19.90279,małopolskie,Kraków
+wroclaw,Wrocław,51.134576,17.039328,dolnośląskie,Wrocław
+szczecinek,Szczecinek,53.700942,16.693575,zachodniopomorskie,Szczecinek
+zary,Żary,51.616609,15.135033,lubuskie,Żary
+leszno,Leszno,51.851061,16.619139,wielkopolskie,gmina Osieczna
+cieszyn,Cieszyn,49.741202,18.629197,śląskie,Cieszyn
+warszawazoliborz,Warszawa-Żoliborz,52.280382,20.990555,mazowieckie,Warszawa
+kalisz,Kalisz,51.75628,18.100242,wielkopolskie,Kalisz
+warszawaursynow,Warszawa-Ursynów,52.135633,21.063039,mazowieckie,Warszawa
+warszawabrodno,Warszawa-Bródno,52.290317,21.035937,mazowieckie,Warszawa
+swinoujscie,Świnoujście,53.915451,14.25818,zachodniopomorskie,Świnoujście
+pruszkow,Pruszków,52.167221,20.8095,mazowieckie,Pruszków
+kedzierzynkozle,Kędzierzyn-Koźle,50.353046,18.203561,opolskie,Kędzierzyn-Koźle
+bydgoszcz,Bydgoszcz,53.130854,17.954564,kujawsko-pomorskie,Bydgoszcz
+chrzanow,Chrzanów,50.129465,19.358722,małopolskie,Chrzanów
+kolobrzeg,Kołobrzeg,54.184504,15.575563,zachodniopomorskie,Kołobrzeg
+rumia,Rumia,54.574728,18.395666,pomorskie,Rumia
+jeleniagora,Jelenia Góra,50.857558,15.678754,dolnośląskie,Jelenia Góra
+opole,Opole,50.650123,17.924448,opolskie,Opole
+lubin,Lubin,51.380777,16.200271,dolnośląskie,Lubin
+skierniewice,Skierniewice,51.965214,20.140672,łódzkie,Skierniewice
+torun,Toruń,53.025641,18.704177,kujawsko-pomorskie,Toruń
+gostyn,Gostyń,51.884368,16.992853,wielkopolskie,Gostyń
+szczecin,Szczecin,53.462802,14.505647,zachodniopomorskie,Szczecin
+augustow,Augustów,53.827144,22.999649,podlaskie,Augustów
+pabianice,Pabianice,51.65346,19.319923,łódzkie,Pabianice
+tczew,Tczew,54.090568,18.802342,pomorskie,Tczew
+katowice,Katowice,50.244676,19.00202,śląskie,Katowice
+bialystok,Białystok,53.121798,23.163993,podlaskie,Białystok
+gdanskpoludnie,Gdańsk-Południe,54.316715,18.576999,pomorskie,Gdańsk
+jablonna,Jabłonna,52.37452,20.914566,mazowieckie,gmina Jabłonna
+elk,Ełk,53.815245,22.354226,warmińsko-mazurskie,Ełk
+swidwin,Świdwin,53.765955,15.774565,zachodniopomorskie,Świdwin
+rzeszow,Rzeszów,50.029829,22.004013,podkarpackie,Rzeszów
+tychy,Tychy,50.120545,19.001032,śląskie,Tychy
+kutno,Kutno,52.223814,19.349423,łódzkie,Kutno
+grodziskmazowiecki,Grodzisk Mazowiecki,52.101019,20.63864,mazowieckie,Grodzisk Mazowiecki
+dzialdowo,Działdowo,53.249253,20.238476,warmińsko-mazurskie,gmina Działdowo
+dabrowka,Dąbrówka,52.385438,16.736391,wielkopolskie,gmina Dopiewo
+koscian,Kościan,52.093343,16.638064,wielkopolskie,Kościan
+glogow,Głogów,51.656428,16.089986,dolnośląskie,Głogów
+gorzowwielkopolski,Gorzów Wielkopolski,52.743889,15.244891,lubuskie,Gorzów Wielkopolski
+olsztyn,Olsztyn,53.776228,20.481014,warmińsko-mazurskie,Olsztyn
+koszalin,Koszalin,54.179399,16.210552,zachodniopomorskie,Koszalin
+skorzec,Skórzec,52.106618,22.117544,mazowieckie,gmina Skórzec
+charzykowy,Charzykowy,53.736041,17.508248,pomorskie,gmina Chojnice
+chelm,Chełm,51.131381,23.48152,lubelskie,Chełm
+zielonagora,Zielona Góra,51.954022,15.532438,lubuskie,Zielona Góra
+grudziadz,Grudziądz,53.466701,18.753259,kujawsko-pomorskie,Grudziądz
+dzierzgon,Dzierzgoń,53.92699,19.343325,pomorskie,Dzierzgoń
+jeziorogorne,Jezioro Górne,54.081372,21.379051,warmińsko-mazurskie,Kętrzyn
+polemokotowskie,Pole Mokotowskie,52.211555,20.996041,mazowieckie,Warszawa
+parkzdrojowykudowazdroj,"Park Zdrojowy, Kudowa-Zdrój",50.443664,16.239829,dolnośląskie,Kudowa-Zdrój
+parknawyspie,Park na Wyspie,53.152392,16.739705,wielkopolskie,Piła
+jezioroswarzedzkie,Jezioro Swarzędzkie,52.412499,17.06912,wielkopolskie,Swarzędz
+slodowowloclawek,"Słodowo, Włocławek",52.658062,19.048737,kujawsko-pomorskie,Włocławek
+jeziorozatorze,Jezioro Zatorze,52.24079,18.262056,wielkopolskie,Konin
+lasaniolowski,Las Aniołowski,50.83462,19.139758,śląskie,Częstochowa
+parkmiejskiwejherowo,"Park Miejski, Wejherowo",54.598679,18.235979,pomorskie,Wejherowo
+zamekwmalborku,Zamek w Malborku,54.038562,19.025207,pomorskie,Malbork
+ogrodsaski,Ogród Saski,51.249271,22.5485,lubelskie,Lublin
+szubiankizagorow,"Szubianki, Zagórów",52.164015,17.879627,wielkopolskie,Zagórów
+malyjeziorak,Mały Jeziorak,53.596551,19.553879,warmińsko-mazurskie,Iława
+parkimjanapawlaii,Park im. Jana Pawła II,50.92469,22.219083,lubelskie,Kraśnik
+zalewzyrardowski,Zalew Żyrardowski,52.037199,20.450379,mazowieckie,Żyrardów
+rezerwatstrzelnica,Rezerwat Strzelnica,54.130316,17.95747,pomorskie,Kościerzyna
+bulwarnadwisla,Bulwar nad Wisłą,50.01101,19.11971,śląskie,gmina Miedźna
+parkmodrzewie,Park Modrzewie,54.18425,19.392936,warmińsko-mazurskie,Elbląg
+parkradolinskich,Park Radolińskich,51.975893,17.503069,wielkopolskie,Jarocin
+puszczaniepolomicka,Puszcza Niepołomicka,50.014497,20.240746,małopolskie,gmina Kłaj
+ekomarina,Ekomarina,53.875029,21.316257,warmińsko-mazurskie,Mrągowo
+blonie,Błonie,52.249399,17.076015,wielkopolskie,Kórnik
+lasdebinski,Las Dębiński,52.367188,16.920031,wielkopolskie,Poznań
+lasekmarcelinski,Lasek Marceliński,52.403769,16.853468,wielkopolskie,Poznań
+parkmiejskisosnowiec,"Park Miejski, Sosnowiec",50.298517,19.242408,śląskie,Sosnowiec
+parknadnyski,Park Nadnyski,51.149877,15.001404,dolnośląskie,Zgorzelec
+laslagiewnicki,Las Łagiewnicki,51.824704,19.472638,łódzkie,Łódź
+wzniesienieosowy,Wzniesienie Osowy,54.435529,18.472494,pomorskie,Gdynia
+zielonyjar,Zielony Jar,50.094923,20.058498,małopolskie,Kraków
+parkmiejskilowicz,"Park Miejski, Łowicz",52.10956,19.940267,łódzkie,Łowicz

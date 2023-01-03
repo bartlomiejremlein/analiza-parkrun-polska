@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OSM Nominatim
+cache/
+
+# PostgreSQL login information
+*.ini

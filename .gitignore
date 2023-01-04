@@ -133,3 +133,8 @@ cache/
 
 # PostgreSQL login information
 *.ini
+
+plots/
+*.png
+
+*.sql
